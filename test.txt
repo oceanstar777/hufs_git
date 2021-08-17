@@ -1,3 +1,2 @@
 git merge test
-git branch master confilict
-git branch test1
+git finish
